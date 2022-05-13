@@ -84,7 +84,6 @@ const HomeHeader = ({ onSearch }) => {
             resizeMode='contain'
             style={{ width: 20, height: 20, marginRight: SIZES.base }}
           />
-          {/* --------------Text Input Problema Here-------------- */}
           <TextInput
             placeholder='Search NFTs'
             style={{ flex: 1 }}
